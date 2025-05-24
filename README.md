@@ -52,8 +52,8 @@ util/FileUtil.java}
 
 ![Project Screenshot](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/Successfully%20added.png)
 
-![Project Screenshot]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/Terminal%20Image.png))
+![Terminal Screenshoy]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/Terminal%20Image.png))
 
-![Project Screenshot]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/txt%20File%20Data%20Validation.png))
+![Validation Screenshot]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/txt%20File%20Data%20Validation.png))
 
-![Project Screenshot]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/Adding%20Product.png))
+![Adding Screenshot]([screenshot.png](https://github.com/mridulx7/Inventory-Management-System-Console-based-/blob/29a9fd5cf3d550c339870bbdafa586c831e23cde/Adding%20Product.png))
