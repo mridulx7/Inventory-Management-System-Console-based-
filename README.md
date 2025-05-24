@@ -38,16 +38,12 @@ This application allows a user to maintain an inventory list without the use of 
 ---
 
 ## File Structure
-InventoryProject/
-├── src/
-│ ├── main/
-│ │ └── Main.java
-│ ├── dao/
-│ │ └── ProductDAO.java
-│ ├── model/
-│ │ └── Product.java
-│ └── util/
-│ └── FileUtil.java
-├── inventory.txt
-├── .vscode/
-  └── launch.json
+Inventory Management System (Console-Based)
+src
+1. main/Main.java
+2. dao/ProductDAO.java
+3. model/Product.java
+4. util/FileUtil.java
+inventory.txt
+vscode/launch.json
+
